@@ -9,6 +9,7 @@ Subset: 664,162 reviews of Amazon Handmade items
 
 ## NLP Tools
 **AWS Comprehend**: Amazon's proprietary NLP service
+
 **SpaCy**: Open-source NLP library
 eng_spacysentiment: SpaCy-based sentiment analysis extension 
 
@@ -20,6 +21,10 @@ SpaCy tends to struggle and misclassify short (one-two words) reviews in particu
 - **NER**: 
 SpaCy provides more detailed entity categorization (e.g., distinguishing between CARDINAL, ORDINAL, MONEY), whereas AWS Comprehend uses broader generalizations (e.g., QUANTITY for any numeric expressions).
 
+## Key Visualizations
+
+![AWS and SpaCy Sentiment Breakdown](AWS_and_SpaCy_sentiment.png)
+![AWS and SpaCy Named Entity Recognition](AWS_and_SpaCy_wordcloud.png) 
 
 ## Contact
-For any questions, please contact me [Tanya Kuznetsova](mailto:tanya_kuznetsova@icloud.com).
+For any questions, please [get in touch!](mailto:tanya_kuznetsova@icloud.com).
