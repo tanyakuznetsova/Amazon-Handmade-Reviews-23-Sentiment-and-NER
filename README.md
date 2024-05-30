@@ -22,4 +22,4 @@ SpaCy provides more detailed entity categorization (e.g., distinguishing between
 
 
 ## Contact
-For any questions, please contact [Your Name](mailto:tanya_kuznetsova@icloud.com).
+For any questions, please contact me [Tanya Kuznetsova](mailto:tanya_kuznetsova@icloud.com).
